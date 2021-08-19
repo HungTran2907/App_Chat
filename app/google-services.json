@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255005938440",
+    "project_id": "hungts-appchat",
+    "storage_bucket": "hungts-appchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255005938440:android:d6d232a5ccae9bca36d2bd",
+        "android_client_info": {
+          "package_name": "com.example.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255005938440-5rb03t62sdenf4t3536b6dmg00ntbnvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm9z5FKxUbA0UlfKfULtPOsNzNBCV9j2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255005938440-5rb03t62sdenf4t3536b6dmg00ntbnvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
